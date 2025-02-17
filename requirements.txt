@@ -1,2 +1,2 @@
 aiogram
-langchain
+langchain_together
